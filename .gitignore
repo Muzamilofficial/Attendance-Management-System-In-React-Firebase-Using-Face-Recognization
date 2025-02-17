@@ -1,0 +1,31 @@
+# Ignore sensitive files
+backend/Encode.p
+backend/serviceAccountKey.json
+
+# Ignore Python virtual environment
+venv/
+env/
+.env
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp

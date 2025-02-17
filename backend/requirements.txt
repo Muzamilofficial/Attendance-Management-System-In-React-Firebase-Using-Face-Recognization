@@ -1,0 +1,12 @@
+Flask
+flask-cors
+firebase-admin
+pandas
+opencv-python
+face-recognition
+numpy
+pickle5
+base64
+threading
+collections
+xlsxwriter
