@@ -34,6 +34,19 @@ The **Attendance Management System** is a **real-time** solution that eliminates
 
 ---
 
+## 🔍 Technologies Used  
+
+| Tech            | Purpose                           |  
+|----------------|---------------------------------|  
+| **React.js ⚛️** | Frontend framework              |  
+| **Firebase 🔥** | Database & Authentication       |  
+| **Face API.js 🤖** | Face recognition engine        |  
+| **Tailwind CSS 🎨** | UI Styling                     |  
+| **Redux Toolkit ⚡** | State management              |  
+| **Chart.js 📊** | Attendance analytics           |  
+
+---
+
 ## 🛠️ Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
@@ -66,5 +79,10 @@ npm start
 ```
 
 Open http://localhost:3000 to access the app. 🎉
+
+## 🚀 Future Enhancements
+- 📌 Mobile App (React Native)
+- 🔔 Push Notifications for Attendance Alerts
+- 🌍 Multi-Language Support
 
 # 📸 Some Screenshots of the Project 🖼️✨
